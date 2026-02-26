@@ -26,25 +26,6 @@ Criar soluções organizadas e reutilizáveis
 
 A Programação Orientada a Objetos permite criar sistemas mais organizados, reutilizáveis e fáceis de manter, sendo um dos pilares do desenvolvimento moderno em Java. ()
 
-📂 Estrutura do Projeto
-
-O projeto está organizado seguindo o padrão Maven:
-
-ExerciciosPoo-Java/
-│
-├── src/
-│   └── main/
-│       └── java/
-│           └── br/
-│               └── com/
-│                   └── ...
-│                       ├── Exercicio1.java
-│                       ├── Exercicio2.java
-│                       └── Exercicio3.java
-│
-├── pom.xml
-└── README.md
-
 Cada arquivo representa um exercício independente com seu próprio objetivo.
 
 🧠 Conteúdos praticados
